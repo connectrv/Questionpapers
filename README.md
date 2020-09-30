@@ -1,6 +1,6 @@
 ![Poster](https://raw.githubusercontent.com/connectrv/Questionpapers/master/display-poster.png)
 
-[![Hacktoberfest](https://badgen.net/badge/hacktoberfest/friendly/pink)](#)
+![Hacktoberfest](https://badgen.net/badge/hacktoberfest/friendly/green/)
 ![CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue)
 
 
