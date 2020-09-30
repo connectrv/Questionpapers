@@ -16,5 +16,5 @@ Contributions in form of pull request and issues welcome. For proposing a new fe
 ## License  
 ![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)
 
-Licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://github.com/connectrv/Questionpapers/blob/master/LICENSE.md). Short version [here](https://creativecommons.org/licenses/by-nc/4.0/).
+Licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://github.com/connectrv/Questionpapers/blob/master/LICENSE.md). 
 
