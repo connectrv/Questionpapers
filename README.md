@@ -14,7 +14,7 @@ You can find all the Question papers and even add your College or any Entrance e
 Contributions in form of question papers are welcome. 
 1. Navigate to your Univsersity directory (folder) and Year for which you want to add papers.
 2. On top right click `Add file` and `Upload files` from the drop down.
-3. Rename your papers in following format: `COURSE_Subject_ExamNo`. For example an Unit Test 1 question paper of English in BCA course would be named as `BCA_English_UnitTest1.pdf`.
+3. Rename your papers in following format: `COURSE_Subject_ExamNo.pdf`. For example an Unit Test 1 question paper of English in BCA course would be named as `BCA_English_UnitTest1.pdf`.
 4. Drag and drop papers. 
 5. In `Commit changes` (commit message section), write in format `COURSE Subject Name: add paper`. For example `BCA English: add paper`.
 6. Select `Create a new branch for this commit and start a pull request` below and click `Propose changes`.
